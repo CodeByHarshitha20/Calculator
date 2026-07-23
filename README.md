@@ -7,7 +7,6 @@ I posted my final project to here as well: https://codepen.io/skbgdqqk-the-lessf
 - Percentage Calculation
 - Keyboard Support
 - Clear & Delete Functions
-- Error Handling
 🛠️ Technologies Used
 - HTML5
 - CSS3
