@@ -1,6 +1,7 @@
 # Calculator
 A modern calculator web application with responsive design, keyboard support, and basic arithmetic functionality.
-I posted my final project to here as well: https://codepen.io/skbgdqqk-the-lessful/pen/dPNjjWV
+I posted my final project to here as well: https://github.com/CodeByHarshitha20/Calculator
+
 ✨ Features
 - Responsive Design
 - Basic Arithmetic Operations
